@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <atom:link href="https://rawcdn.githack.com/jeffylon/pcast/775fd21b1b394328ddbbc8f2d533dadf72a5b7de/TradingRock.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://github.com/jeffylon/pcast/raw/main/TradingRock.rss" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Trading Rock</title>
   <lastBuildDate>Fri, 25 June 2021 17:23:20 -0400</lastBuildDate>
